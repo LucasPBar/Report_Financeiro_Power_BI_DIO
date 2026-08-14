@@ -119,7 +119,6 @@ O projeto mostrou como **pequenos ajustes visuais** e uma boa arquitetura de nav
 | :--- | :--- | :--- |
 | **👤 Nome:** | Lucas Pimenta Barretto | |
 | **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align:middle; margin-right:8px;"> LinkedIn:** | [linkedin.com/in/lucaspimentabarretto](https://www.linkedin.com/in/lucaspimentabarretto) | |
-| **📧 Email:** | lucaspimenta1805@gmail.com | |
 | **💼 Portfólio:** | [Data Science Portfolio](https://www.datascienceportfol.io/lucaspimenta1805) | |
 
 ---
